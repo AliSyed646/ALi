@@ -1,0 +1,50 @@
+body{
+    background-color: black;
+}
+.fa-youtube{
+    color: #524242;
+    font-size: 75px;
+    margin-left: 32%;
+    position: relative;
+    top: 115px;
+
+}
+.fa-youtube:hover{
+    color: #ff0303;
+}
+#h1{
+    color: rgb(112, 82, 82);
+    text-align: center;
+    font-size: 100px;
+    margin-top: 1%;
+}
+
+#box{
+    color: rgb(255, 255, 255);
+    padding: 20px;
+    border: 1px solid white ;
+    border-radius: 10px;
+    height: 575px;
+    width: 70%;
+    margin: 0 auto;
+    
+}
+#p2{
+    color: rgb(255, 255, 255);
+    font-size: 45px;
+    margin-top: -5%;
+    text-align: center;
+   
+}
+#p3{
+    color: rgb(255, 255, 255);
+    font-size: 30px; 
+    margin: 0 auto;
+}
+#ytlink{
+    color: #524242;
+    text-decoration: none;
+}
+#ytlink:hover{
+    color: rgb(255, 4, 4);
+}
